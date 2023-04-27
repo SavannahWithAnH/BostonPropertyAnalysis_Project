@@ -15,7 +15,7 @@
 This project looks to determine the factors which impact first-time home-buyers making economically correct decisions when buying a home in Boston.
 
 ## Question to answer:
-A: How many people make money within the first 5 years when they buy a home?
+A: How many people make money within the first 5 years when they buy a home? <NEW LINE>
 B: What are the characteristics of first-time homebuyers (and the homes they buy) that make money?
 C: What characteristics significantly impact whether or not you make money within the first 5 years of buying your home? And by how much?
 
