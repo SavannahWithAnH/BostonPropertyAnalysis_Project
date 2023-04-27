@@ -25,5 +25,5 @@ B: We want to know what people who succeed in the market are like.
 C: We want to know what characteristics correlate to the best outcomes.
 
 ## Dataset used:
-Boston CSV from Kaggle
-Zillow Boston Housing Data
+* Boston CSV from Kaggle
+* Zillow Boston Housing Data
