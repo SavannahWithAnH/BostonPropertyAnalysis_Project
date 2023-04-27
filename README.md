@@ -27,3 +27,4 @@ C: We want to know what characteristics correlate to the best outcomes. <br>
 ## Dataset used:
 * Boston CSV from Kaggle
 * Zillow Boston Housing Data
+* Boston Property Assesment CSV
