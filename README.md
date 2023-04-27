@@ -35,16 +35,16 @@ C: We want to know what characteristics correlate to the best outcomes. <br>
     * Zillow Boston Housing Data: Savannah
     * Boston Property Assesment CSV: Savannah
 * Download and Clean Data
-    * Boston CSV from Kaggle: 
-    * Zillow Boston Housing Data: 
-    * Boston Property Assesment CSV: 
+    * Boston CSV from Kaggle: Andrew
+    * Zillow Boston Housing Data: Fabienne
+    * Boston Property Assesment CSV: Katie
 * Analyze Data:
-    * Question - Housing valuations over time by home type // Boston Property Assesment CSV - Visualization 1:
-    * Question - Housing valuations against housing charecteristics // Boston CSV from Kaggle - Visualization 2:
-    * Question - Housing charecteristics by impact on housing valuation // Boston CSV from Kaggle - Visualization 3:
-    * Question - New home buyers success rate // Zillow & Boston Property Assesment CSV - Visualization 4:
+    * Question - Housing valuations over time by home type // Boston Property Assesment CSV - Visualization 1: Mo
+    * Question - Housing valuations against housing charecteristics // Boston CSV from Kaggle - Visualization 2: Savannah
+    * Question - Housing charecteristics by impact on housing valuation // Boston CSV from Kaggle - Visualization 3: Alex 
+    * Question - New home buyers success rate // Zillow & Boston Property Assesment CSV - Visualization 4: Andrew
 * Review and refine final visualizations:
-    * Question Visualization 1:
-    * Question Visualization 2:
-    * Question Visualization 3:
-    * Question Visualization 4:
+    * Question Visualization 1: Fabienne
+    * Question Visualization 2: Katie
+    * Question Visualization 3: Mo
+    * Question Visualization 4: Savannah
