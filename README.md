@@ -4,12 +4,12 @@
 ## Project Title: Real Estate - What’s real in these states?
 
 ## Team Members:
-Andrew Skorupa
-Fabienne Joseph
-Katie Beal
-Mohamed Abou elkhier
-Savannah Porter
-Alex Kopp
+*Andrew Skorupa
+*Fabienne Joseph
+*Katie Beal
+*Mohamed Abou elkhier
+*Savannah Porter
+*Alex Kopp
 
 ## Project Description:
 This project looks to determine the factors which impact first-time home-buyers making economically correct decisions when buying a home in Boston.
