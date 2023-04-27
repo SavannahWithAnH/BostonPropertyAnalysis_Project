@@ -6,7 +6,6 @@
 ## Team Members:
 * Andrew Skorupa
 * Fabienne Joseph
-* Katie Beal
 * Mohamed Abou elkhier
 * Savannah Porter
 * Alex Kopp
