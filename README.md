@@ -1,8 +1,7 @@
 # Project1-Group
 ## Data Exploration Project Proposal:
 
-## Project Title: <br>
-## Real Estate - What’s real in these states?
+## Project Title: Real Estate - What’s real in these states?
 
 ## Team Members:
 * Andrew Skorupa
