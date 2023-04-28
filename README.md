@@ -1,34 +1,34 @@
 # Project1-Group
-## Data Exploration Project Proposal:
+### Data Exploration Project Proposal:
 
-## Project Title: Real Estate - What’s real in these states?
+### Project Title: Real Estate - What’s real in these states?
 
-## Team Members:
+### Team Members:
 * Andrew Skorupa
 * Fabienne Joseph
 * Mohamed Abou elkhier
 * Savannah Porter
 * Alex Kopp
 
-## Project Description:
+### Project Description:
 This project looks to determine the factors which impact first-time home-buyers making economically correct decisions when buying a home in Boston.
 
-## Question to answer:
+### Question to answer:
 A: How many people make money within the first 5 years when they buy a home? <br>
 B: What are the characteristics of first-time homebuyers (and the homes they buy) that make money? <br>
 C: What characteristics significantly impact whether or not you make money within the first 5 years of buying your home? And by how much? <br>
 
-## Motivation for each question:
+### Motivation for each question:
 A: We want to know the likelihood of success for us in buying a new home in Boston. <br>
 B: We want to know what people who succeed in the market are like. <br>
 C: We want to know what characteristics correlate to the best outcomes. <br>
 
-## Dataset used:
+### Dataset used:
 * Boston CSV from Kaggle
 * Zillow Boston Housing Data
 * Boston Property Assesment CSV
 
-## Task Set:
+### Task Set:
 * Upload .csv files:
     * Boston CSV from Kaggle: Alex
     * Zillow Boston Housing Data: Savannah
