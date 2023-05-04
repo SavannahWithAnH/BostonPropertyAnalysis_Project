@@ -47,6 +47,7 @@ C: Best charecteristics for determining home value. <br>
     * Question Visualization 1: Andrew
     * Question Visualization 2: Andrew
     * Question Visualization 3: Andrew
+    * Written Data Analysis: Andrew
 
 
 # Written Analysis
