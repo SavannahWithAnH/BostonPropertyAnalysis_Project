@@ -50,3 +50,5 @@ C: Best charecteristics for determining home value. <br>
 
 
 # Written Analysis
+
+Following the basic economic principal of supply and demand, we concluded that the most popular homes were three bedroom homes located outside the downtown city limits. In addition to the number of bedrooms, newer homes built in the last 40 years attracted a significant number of buyers, which ultimately affects the resale value, and providing the seller with a good return of investment. The median home values have risen steadily over the last five years, totaling a 44% increase between 2018 and 2023.
