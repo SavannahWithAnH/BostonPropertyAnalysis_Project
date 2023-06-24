@@ -1,9 +1,8 @@
-# Project1-Group
-### Data Exploration Project Proposal:
+# BostonPropertyAnalysis_Project
 
-### Project Title: Real Estate - What’s real in these states?
+### Title: Real Estate - What’s real in these states?
 
-### Team Members:
+### Project Contributers:
 * Andrew Skorupa
 * Mohamed Abou elkhier
 * Savannah Porter
